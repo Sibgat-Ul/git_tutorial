@@ -45,3 +45,7 @@ git pull --rebase=False
 ```git
 git pull --rebase=False
 ```
+
+```git
+git pull --rebase=interactive
+```
